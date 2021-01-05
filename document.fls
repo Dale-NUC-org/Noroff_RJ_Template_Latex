@@ -149,12 +149,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsx1440.tfm
 INPUT /home/operations/Studies/Noroff_RJ_Template_Latex/document.toc
 INPUT /home/operations/Studies/Noroff_RJ_Template_Latex/document.toc
 OUTPUT /home/operations/Studies/Noroff_RJ_Template_Latex/document.toc
-INPUT /home/operations/Studies/Noroff_RJ_Template_Latex/document.lof
-INPUT /home/operations/Studies/Noroff_RJ_Template_Latex/document.lof
-OUTPUT /home/operations/Studies/Noroff_RJ_Template_Latex/document.lof
-INPUT /home/operations/Studies/Noroff_RJ_Template_Latex/document.lot
-INPUT /home/operations/Studies/Noroff_RJ_Template_Latex/document.lot
-OUTPUT /home/operations/Studies/Noroff_RJ_Template_Latex/document.lot
 INPUT /home/operations/Studies/Noroff_RJ_Template_Latex/tex/02_introduction.tex
 INPUT /home/operations/Studies/Noroff_RJ_Template_Latex/tex/02_introduction.tex
 INPUT /home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section1.tex
