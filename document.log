@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  5 JAN 2021 12:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  5 JAN 2021 14:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/operations/Studies/Noroff_RJ_Template_Latex/document.tex
-(/home/operations/Studies/Noroff_RJ_Template_Latex/document.tex
+**/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/document.tex
+(/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/document.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -22,7 +22,7 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (/home/operations/Studies/Noroff_RJ_Template_Latex/mystyle.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/mystyle.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
@@ -342,25 +342,25 @@ Package geometry Warning: Over-specification in `v'-direction.
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count293
 \l__pdf_internal_box=\box93
-) (/home/operations/Studies/Noroff_RJ_Template_Latex/document.aux)
+) (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count294
@@ -381,7 +381,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box95
-Package hyperref Info: Link coloring OFF on input line 67.
+Package hyperref Info: Link coloring OFF on input line 69.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -391,10 +391,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count300
 )
-LaTeX Info: Redefining \ref on input line 67.
-LaTeX Info: Redefining \pageref on input line 67.
-LaTeX Info: Redefining \nameref on input line 67.
- (/home/operations/Studies/Noroff_RJ_Template_Latex/document.out) (/home/operations/Studies/Noroff_RJ_Template_Latex/document.out)
+LaTeX Info: Redefining \ref on input line 69.
+LaTeX Info: Redefining \pageref on input line 69.
+LaTeX Info: Redefining \nameref on input line 69.
+ (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/document.out) (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/document.out)
 \@outlinefile=\write3
 \openout3 = `document.out'.
 
@@ -436,16 +436,16 @@ LaTeX Info: Redefining \nameref on input line 67.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 67.
-(/home/operations/Studies/Noroff_RJ_Template_Latex/tex/01_title.tex
-<Noroff-Logo.png, id=60, 240.9pt x 236.5638pt>
+(lastpage)             ! on input line 69.
+(/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/01_title.tex
+<Noroff-Logo.png, id=80, 240.9pt x 236.5638pt>
 File: Noroff-Logo.png Graphic file (type png)
 <use Noroff-Logo.png>
 Package pdftex.def Info: Noroff-Logo.png  used on input line 34.
 (pdftex.def)             Requested size: 50.91396pt x 50.0pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/operations/Studies/Noroff_RJ_Template_Latex/Noroff-Logo.png>]) (/home/operations/Studies/Noroff_RJ_Template_Latex/document.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/Noroff-Logo.png>]) (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/document.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -454,50 +454,61 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `document.toc'.
 
- [2] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/02_introduction.tex) [1] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section1.tex
-Underfull \vbox (badness 1292) has occurred while \output is active []
-
- [2] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+ [2] (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/02_introduction.tex) [1] (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/03_body_section1.tex
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 14.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [2] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 31.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 31.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 39.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 39.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/TestCode.py
+) (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/TestCode.py
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 1.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-))) [3] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section2.tex) [4] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section3.tex
+)) [3]
+Overfull \hbox (4.70134pt too wide) in paragraph at lines 64--69
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
+
+ []
+
+) [4] (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/03_body_section2.tex) [5] (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/03_body_section3.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]) [6] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section4.tex [7]) [8] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/04_body_conclusion.tex (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/hello_world.py)) [9] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/05_appendix.tex) [10] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/06_bibliography.tex) 
+ [6]) [7] (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/03_body_section4.tex [8]) [9] (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/04_body_conclusion.tex (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/hello_world.py)) [10] (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/05_appendix.tex) [11] (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/tex/06_bibliography.tex) 
 AED: lastpage setting LastPage
-[11
+[12
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
- (/home/operations/Studies/Noroff_RJ_Template_Latex/document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
+ (/home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/document.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 121.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 121.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 45AFF4404FE16E088E062ACDE0573486;887.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
+(rerunfilecheck)             Checksum: 2B150F2AEF4218E3121E47AAB80DF1B7;1258.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
  ) 
 Here is how much of TeX's memory you used:
- 9431 strings out of 481239
- 139149 string characters out of 5920376
- 640920 words of memory out of 5000000
- 24461 multiletter control sequences out of 15000+600000
- 542157 words of font info for 39 fonts, out of 8000000 for 9000
+ 9463 strings out of 481239
+ 140422 string characters out of 5920376
+ 640581 words of memory out of 5000000
+ 24481 multiletter control sequences out of 15000+600000
+ 542498 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,12n,53p,349b,1828s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on /home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf (13 pages, 196022 bytes).
+ 42i,11n,53p,362b,1828s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
+Output written on /home/operations/Studies/UC1PR2101/UC1PR2101-ReflectiveJournal/document.pdf (14 pages, 223738 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 190 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 265 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
