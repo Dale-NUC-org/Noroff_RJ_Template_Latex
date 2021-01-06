@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  6 JAN 2021 10:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  6 JAN 2021 13:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -513,7 +513,7 @@ LaTeX Font Info:    Trying to load font information for T1+pcr on input line 1.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )) [3]
-Underfull \hbox (badness 10000) in paragraph at lines 144--147
+Underfull \hbox (badness 10000) in paragraph at lines 145--148
 
  []
 
@@ -535,18 +535,18 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
  ) 
 Here is how much of TeX's memory you used:
- 10505 strings out of 481239
- 157117 string characters out of 5920376
+ 10506 strings out of 481239
+ 157124 string characters out of 5920376
  658603 words of memory out of 5000000
  25475 multiletter control sequences out of 15000+600000
  543314 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  49i,12n,101p,357b,1940s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on /home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf (15 pages, 237038 bytes).
+Output written on /home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf (15 pages, 237098 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 254 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 256 compressed objects within 3 object streams
+ 61 named destinations out of 1000 (max. 500000)
  158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
