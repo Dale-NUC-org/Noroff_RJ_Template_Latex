@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.10.1)  7 JAN 2021 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.10.1)  8 JAN 2021 01:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -620,7 +620,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  49i,12n,100p,980b,1828s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0500.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0800.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0800.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2488.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2074.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2074.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on document.pdf (17 pages, 180228 bytes).
+Output written on document.pdf (17 pages, 180274 bytes).
 PDF statistics:
  782 PDF objects out of 1000 (max. 8388607)
  350 compressed objects within 4 object streams
