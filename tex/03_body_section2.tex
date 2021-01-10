@@ -1,18 +1,35 @@
 % This is a section template for reflective journal
 
+
+% Remove or comment out this whole environment when using this template.
+{\begin{center}
+    \textcolor{red}{\Huge{THIS IS A SAMPLE SECTION}}
+
+    \begin{tabular}{r @{: } p{80mm}}
+        {\textcolor{blue}{Blue text}} &  Help text. Short description of how to use an environment or a section in the template.\\
+        <<{\emph{text placeholder}}>> & Text between angle brackets are placeholders. Indicates a string to be replaced with input text.\\
+        Normal text/black fonts & Real note/example text, how the section is intended to be used.
+    \end{tabular}
+
+\end{center}
+
+
 % ----> Header informaton section - Start
-\section{Lesson 1:Introduction} % Replace the double angle brackets with the lesson number and name.
+\section{Section <<{\emph{number}}>>: <<{\emph{Lesson topic}}>>}
 
-Original URL: << link to the original blog post on the Moodle blog>> % Replace the double angle brackets with the URL to the reflective journal blog.
+{\textcolor{blue}{Replace the double angle brackets with the lesson number and name.}}
+
+Original URL: <<{\emph{link to the original blog post on the Moodle blog}}>>
+
+{\textcolor{blue}{Replace the double angle brackets with the URL to the reflective journal blog.}}
 % <---- Header informaton - End
-
 
 
 % ----> Main reflective subsection - Start
 % ----| Write reflective thoughts on the topic in general. |----
 \subsection{Reflection on the days lecture and tutorial}
 
-<<Add critical reflective thoughts about your learning experiences. Delete this text>>
+{\textcolor{blue}{Add critical reflective thoughts about your learning experiences. Delete this text}}
 
 {\bfseries{Lesson/Topic goals/Study Plan:}}
 \begin{itemize}
@@ -20,42 +37,42 @@ Original URL: << link to the original blog post on the Moodle blog>> % Replace t
     \item What...
     \item How...
 \end{itemize}
-% ----> Main reflective subsection - End
-
+% <---- Main reflective subsection - End
 
 % ----> Main reflective subsection - Start
 % ----| Write reflective thoughts on a specific reflective topic. |----
 \subsection{Reflection Topics}
 
-<<When there are guided topics add them as sub-headings and include your critical discussion of the topic(s)>>
+{\textcolor{blue}{When there are guided topics add them as sub-headings and include your critical discussion of the topic(s)}}
 
-\blindtext[3]  % Example text, comment out or remove this line.
+\blindtext[1] % Example text, comment out or remove this line.
+
+\blindtext[1] % Example text, comment out or remove this line.
 
 \subsubsection{Provided topic 1}
 
-<<topic 1 example reflective discussion>>
+{\textcolor{blue}{topic 1 example reflective discussion}}
 
-\blindtext[3] % Example text, comment out or remove this line.
+\blindtext[1] % Example text, comment out or remove this line.
+
+\blindtext[1] % Example text, comment out or remove this line.
 
 \subsubsection{Provided topic 2}
 
-<<topic 2 example reflective discussion >>
+{\textcolor{blue}{topic 2 example reflective discussion}}
 
-
-\insertcode{tex/TestCode.py}{This is a Python code} % Example of how to insert code with modified formatting. Delete or comment out.
-
-% ----> Main reflective subsection - End
+% <---- Main reflective subsection - End
 
 
 
-% ----> Main reflective subsection - Start
+% ----> Key Take-Away subsection - Start
 % ----| Write Itemized notes regarding the lesson topic. |----
 \subsection{Key Take-Away}
 
-This subsection outlines key information from the day's lesson in bullet points.
+{\textcolor{blue}{This subsection outlines key information from the day's lesson in bullet points.}}
 
 \begin{enumerate}
-    \item Main Item 1.
+    \item Main Item 1
     \begin{enumerate}
         \item sub item 1 1
         \item sub item 1 2
@@ -71,7 +88,7 @@ This subsection outlines key information from the day's lesson in bullet points.
         \item sub item 2 3
         \item sub item 2 4
     \end{enumerate}
-    \item ...
+    \item Main Item 3
     \item ..
     \item .
 \end{enumerate}
@@ -79,79 +96,70 @@ This subsection outlines key information from the day's lesson in bullet points.
 
 \subsection{Lessons Learned}
 
-{\emph{Below text are example only!!!}}
+{\textcolor{blue}{This subsection summarizes the day's lesson topic.}}
 
+{\bfseries{Bold heading}}
 
-This subsection summarizes the day's lesson topic.
-
-{\bfseries{Databases}}
-
-
-Databases is an element of modern information infrastructure.
-
-
-Organized data/information by following examples.
-
-
-\begin{itemize}
-    \item Catagorization
-    \item Quantify
-    \item Itemization
-    \item Relation etc.
-\end{itemize}
-
-
-Redundant data are problematic:
-\begin{itemize}
-    \item Storage, takes space
-    \item Overhead, when updating
-    \item Itegrity, data consistency
-\end{itemize}
+\blindtext[2]
 
 
 {\bfseries{Glossary:}}
 
+{\textcolor{blue}{Expand and elaborate on new words, expressions and topic terminology with a glossary list.}}
 
-% \begin{tabular}{@{}c|c @{}}
-\begin{tabular}{p{40mm} | p{100mm}}
-    Word/expression & Elaboration / Comment \\ \hline
-    3rd Normal Form & A database schema design see "Other source material" table in section \ref{subsec:source}. Ensures update and insert integrity to the database.\\ \hline
+\begin{tabular}{p{40mm} | p{120mm}}
+    {\bfseries{Key Word/Expression}} & {\bfseries{Elaboration/Comment}}\\ \hline
+    <<{\emph{Input}}>> & <<{\emph{Input}}>>\\ \hline
 \end{tabular}
 
+% <---- Lessons Learned subsection - End
 
 
+
+% ----> Action-Point subsection - Start
+% ----| To-do list to complete the day's lesson topic. |----
 \subsection{Action Points - Further Reading/Enquiry}
 
+{\textcolor{blue}{To-do list relevant to complete/expand on the lesson topic.}}
+
 \begin{adjustbox}{max width=\textwidth}
-\begin{tabular}{c|l|l|c|l}
-    Action Point & To-do description & Assigend to & Target date & Comment/Status \\
-    \hline
-    1 & Create home-lavb environment for the course & Self & ASAP & Assigned \\
-\end{tabular}
+    \begin{tabular}{c|l|l|c|l}
+        {\bfseries{Action Point}} & {\bfseries{To-do description}} & {\bfseries{Assigned to}} & {\bfseries{Target date}} & {\bfseries{Comment/Status}} \\
+        \hline
+        1 & <<{\emph{Task name}}>> & <<{\emph{Task description}}>> & <<{\emph{Task owner}}>> & <<{\emph{Other details}}>> \\ \hline
+        2 & <<{\emph{Task name}}>> & <<{\emph{Task description}}>> & <<{\emph{Task owner}}>> & <<{\emph{Other details}}>> \\ \hline
+    \end{tabular}
 \end{adjustbox}
 
-\subsection{Other source materials} \label{subsec:source}
+% <---- Action-Point subsection - End
 
 
-\begin{tabular}{c|c}
-    Resource Type & Source description, Book title, URL, etc.\\
+
+% ----> Other source materials subsection - Start
+% ----| A list of materials not directly provided via the course books/distributed by lecturers for the day's lesson topic. |----
+\subsection{Other source materials} 
+
+{\textcolor{blue}{External course related material. Insert book title, ISBN, URL etc. }}
+
+\begin{tabular}{p{40mm} | p{120mm}}
+    {\bfseries{Resource Type}} & {\bfseries{Source description, Book title, URL, etc.}}\\
     \hline
-    Wikipedia & \url{https://en.wikipedia.org/wiki/Third_normal_form}\\ \hline
-    Row 2 & Cell 2\\ \hline
+    <<{\emph{Input}}>> & <<{\emph{Input}}>>\\ \hline
 \end{tabular}
 
+% <---- Other source materials subsection - end
 
-
-\url{www.bing.com}\\
-\url{www.wikipedia.com}\\
-\url{www.wolframalpha.com}\\
-
+% ----> Issues Noted and Area of Improvements subsection - Start
+% ----| A list of items, after-thought about issues, difficulties (on the subject itself, materials, tools, etc.) working with the day's lesson topic. |----
 \subsection{Issues Noted and Area of Improvements}
 
+{\textcolor{blue}{Issues noted; what has failed with regards to tools, the lecture itself, missing course material, wrong information or solution in the course assignment etc. Any area of improvement with regards to how previous task has been managed, how to more efficiently proceed with the course personally. Suggestions for improvement suggestions to course leader.}}
+
 \begin{tabular}{c|l}
-    Issue number & Issue description / Area of Improvement\\
+    {\bfseries{Issue number}} & {\bfseries{Issue description / Area of Improvement}}\\
     \hline
-    1 & AOI description. Lorem ipsum\\ \hline
-    2 & Issue description. Lorem ipsum\\
+    <<{\emph{input}}>> & <<{\emph{input}}>>\\ \hline
     
 \end{tabular}
+
+% <---- Issues Noted and Area of Improvements subsection - End

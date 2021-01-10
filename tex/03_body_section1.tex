@@ -1,16 +1,23 @@
 % This is a section template for reflective journal
 
-
+% Remove or comment out this whole environment when using this template.
 {\begin{center}
-    \textcolor{red}{\Huge{THIS IS A SAMPLE PAGE}}
+    \textcolor{red}{\Huge{THIS IS A SAMPLE SECTION}\\ ...with realistic notes...}
+
+    \begin{tabular}{r @{: } p{80mm}}
+        {\textcolor{blue}{Blue text}} &  Help text. Short description of how to use an environment or a section in the template.\\
+        <<{\emph{text placeholder}}>> & Text between angle brackets are placeholders. Indicates a string to be replaced with input text.\\
+        Normal text/black fonts & Real note/example text, how the section is intended to be used.
+    \end{tabular}
+
 \end{center}
 
-
 % ----> Header informaton section - Start
-\section{Lesson 1:Introduction} % Replace the double angle brackets with the lesson number and name.
+\section{Lesson 1: Course Introduction}
 
-Original URL: << link to the original blog post on the Moodle blog>> % Replace the double angle brackets with the URL to the reflective journal blog.
+Original URL: \url{https://www.noroff.no}
 % <---- Header informaton - End
+
 
 % ----> Main reflective subsection - Start
 % ----| Write reflective thoughts on the topic in general. |----
@@ -18,32 +25,29 @@ Original URL: << link to the original blog post on the Moodle blog>> % Replace t
 
 Lesson 1 was an introduction on the subject of {\emph{Programming Databases}}. It gave a nice overview about the subject, how it is layed out, and perhaps most importantly the study goal. Compared to the 3 other subjects taken since the start of this course, it is the first subject where the subject was clearly outlined along with the goals.
 
-
 There was a statement, see quote on page \pageref{quote} from Prof. Johan Van Niekerk, which is important to keep in the back of mind. It should perhaps be pinned to the wall as a reminder of a pitfall to be cognizant of when surmounting challenging study phases. A reminder to wisely allocate the effort exerted, and lower the level of pondering on the vastness of relevant topics, but stay in focus inside the subject domain, at hand.
-
 
 The statement resonated with me personally, since I regard lack of focus and wasted effort as one culprit of my struggle to keep up on course materials and assessments. I find it very easy to veer of on a tangent and wander away from the study material. For example, making search queries and delving into statistics, while addressing probability in discrete math.
 
+% <---- Main reflective subsection - End
 
-% ----> Main reflective subsection - End
 
 
 % ----> Main reflective subsection - Start
 % ----| Write reflective thoughts on a specific reflective topic. |----
 \subsection{Reflection Topics}
 
-None applicable for this lesson.
+None applicable for this lesson. No reflection topics given for this lesson.
 
-% ----> Main reflective subsection - End
+% <---- Main reflective subsection - End
 
 
 
-% ----> Main reflective subsection - Start
+% ----> Key Take-Away subsection - Start
 % ----| Write Itemized notes regarding the lesson topic. |----
 \subsection{Key Take-Away}
 
-This subsection outlines key information from the day's lesson in bullet points.
-
+Items/bullet points outlines  below outlines key information from the day's lesson.
 
 \begin{itemize}
     \item Working with database (SQLite)
@@ -59,9 +63,7 @@ This subsection outlines key information from the day's lesson in bullet points.
         \end{itemize}
 \end{itemize}
 
-
 Course: UC1PR2101 - Programming Databases
-
 
 \begin{enumerate}
     \item New lesson structure.
@@ -95,12 +97,18 @@ Learning Databases itself is a comprehensive part of software engineering and so
         - Prof. Johan Van Niekerk}}
 \end{displayquote}
 
-Analogous to learning enough foriegn language; One is not expected to be a fluent speaker. But know enough, to converse and to be able to accomplish a specific goal. Deeper knowledge are obtained along the way, whil fluency and comes through effort over time. Basically; not everyone who drives a car are mechanics.
+Analogous to learning enough foriegn language; One is not expected to be a fluent speaker. But know enough, to converse and to be able to accomplish a specific goal. Deeper knowledge are obtained along the way, where fluency comes through effort and immersion over time. 
 
-\subsubsection{Lessons Learned}
+My personal take on this (to make it relatable to the course) is as follows: A car crash forrensic investigator should know enough about a car to tell the pieces from eachother, but is not expected to fix, design or engineer a car to prodution.
+
+% <---- Key Take-Away subsection - End
+
+
+% ----> Lessons Learned subsection - Start
+% ----| Write a summary about the day's lesson topic. |----
+\subsection{Lessons Learned}
 
 This subsection summarizes the day's lesson topic.
-
 
 \begin{itemize}
     \item Why databases (in relation to CyberSecurity)?
@@ -125,10 +133,7 @@ This subsection summarizes the day's lesson topic.
 
 {\bfseries{Databases}}
 
-
-
 Databases organize data/information by following examples.
-
 
 \begin{itemize}
     \item Catagorization
@@ -137,7 +142,6 @@ Databases organize data/information by following examples.
     \item Relation etc.
 \end{itemize}
 
-
 Database systems aims to resolve some data storage issues such as problemetic {\emph{Data redundancy/duplication}}:
 \begin{itemize}
     \item Storage, takes space
@@ -145,13 +149,10 @@ Database systems aims to resolve some data storage issues such as problemetic {\
     \item Itegrity, data consistency
 \end{itemize}
 
-
 {\bfseries{Glossary:}}
 
-
-% \begin{tabular}{@{}c|c @{}}
-\begin{tabular}{p{20mm} | p{120mm}}
-    {\bfseries{Key Word}} & {\bfseries{Elaboration/Comment}}\\ \hline
+\begin{tabular}{p{40mm} | p{120mm}}
+    {\bfseries{Key Word/Expression}} & {\bfseries{Elaboration/Comment}}\\ \hline
     Database & A logical way to organize, store, label and describe relationships of data.\\ \hline
     Third Normal Form & Relational databases. A database schema design see "Other source material" table in section \ref{subsec:source}. Ensures update and insert integrity to the database.\\ \hline
     (Working in) Disconnected mode & A safe way to work with data in Databases, to avoid data curruption or data integrity error. Such curruption or error can occur when multiple connections are made and edits the same data at the same time. Tracking which changes, by which connections, is the most recent and valid change will be difficult. Working in "Disconnected Mode" will remedy this issue.\\ \hline
@@ -161,14 +162,28 @@ Database systems aims to resolve some data storage issues such as problemetic {\
     Database Normalization & Structuring a relational database, reduce data duplication and improve data integrity. \\ \hline
 \end{tabular}
 
+\begin{figure}
+    \includegraphics[width=\linewidth]{tex/Data_cropped.png}
+    \caption{Data Mindmap}
+    \label{fig: Data Mindmap}
+\end{figure}
+
+\begin{figure}
+    \includegraphics[width=\linewidth]{tex/Data_cropped2.png}
+    \caption{Data Mindmap - with detailed notes expanded}
+    \label{fig:Data Mindmap expanded}
+\end{figure}
+
+% <---- Lessons Learned subsection - End
 
 
+% ----> Action-Point subsection - Start
+% ----| To-do list to complete the day's lesson topic. |----
 \subsection{Action Points - Further Reading/Enquiry}
-
 
 \begin{adjustbox}{max width=\textwidth}
     \begin{tabular}{c|l|l|c|l}
-        Action Point & To-do description & Assigend to & Target date & Comment/Status \\
+        {\bfseries{Action Point}} & {\bfseries{To-do description}} & {\bfseries{Assigned to}} & {\bfseries{Target date}} & {\bfseries{Comment/Status}} \\
         \hline
         1 & Verify/enroll to Teams channel membership for the course & N/A & ASAP & Assigned \\ \hline
         2 & Setup a home-lab with SQLite & N/A & ASAP & Assigned \\ \hline
@@ -177,11 +192,15 @@ Database systems aims to resolve some data storage issues such as problemetic {\
     \end{tabular}
 \end{adjustbox}
 
+% <---- Action-Point subsection - End
 
+
+
+% ----> Other source materials subsection - Start
+% ----| A list of materials not directly provided via the course books/distributed by lecturers for the day's lesson topic. |----
 \subsection{Other source materials} \label{subsec:source}
 
-
-\begin{tabular}{p{20mm} | p{120mm}}
+\begin{tabular}{p{40mm} | p{120mm}}
     {\bfseries{Resource Type}} & {\bfseries{Source description, Book title, URL, etc.}}\\
     \hline
     Wikipedia - 3rd Normal Form & \url{https://en.wikipedia.org/wiki/Third_normal_form}\\ \hline
@@ -191,13 +210,20 @@ Database systems aims to resolve some data storage issues such as problemetic {\
     SQLite - Official & \url{https://sqlite.org/index.html}\\ \hline
 \end{tabular}
 
+% <---- Other source materials subsection - end
 
+
+% ----> Issues Noted and Area of Improvements subsection - Start
+% ----| A list of items, after-thought about issues, difficulties (on the subject itself, materials, tools, etc.) working with the day's lesson topic. |----
 \subsection{Issues Noted and Area of Improvements}
 
 \begin{tabular}{c|l}
-    Issue number & Issue description / Area of Improvement\\
+    {\bfseries{Issue number}} & {\bfseries{Issue description / Area of Improvement}}\\
     \hline
     1 & N/A\\ \hline
     2 & N/A\\ \hline
     
 \end{tabular}
+
+
+% <---- Issues Noted and Area of Improvements subsection - End

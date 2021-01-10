@@ -1,0 +1,29 @@
+@startuml SampleERD
+!define LIGHTBLUE
+!includeurl https://raw.githubusercontent.com/Drakemor/RedDress-PlantUML/master/style.puml
+left to right direction
+
+class Student {
+    ID
+    --
+    First Name
+    Last Name
+    Date of birth
+    Class
+}
+
+
+class Class {
+    ID
+    --
+    Class name
+    Class Description
+}
+
+class Bridge {
+    PK
+}
+
+Student |o--{ Class
+
+@enduml
