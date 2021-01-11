@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.10.1)  11 JAN 2021 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.10.1)  11 JAN 2021 12:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -768,13 +768,12 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
  )
-(\end occurred inside a group at level 4)
+(\end occurred inside a group at level 6)
 
+### simple group (level 6) entered at line 3 ({)
+### simple group (level 5) entered at line 3 ({)
 ### simple group (level 4) entered at line 3 ({)
 ### simple group (level 3) entered at line 5 ({)
 ### simple group (level 2) entered at line 4 ({)
@@ -783,15 +782,15 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
 Here is how much of TeX's memory you used:
  21516 strings out of 494561
  386439 string characters out of 6177454
- 714341 words of memory out of 5000000
+ 716159 words of memory out of 5000000
  24643 multiletter control sequences out of 15000+600000
  22645 words of font info for 48 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 62i,12n,100p,997b,1765s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,100p,997b,1873s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0500.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0800.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0800.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecso1440.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2074.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0700.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecso1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2074.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2488.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on document.pdf (19 pages, 495145 bytes).
+Output written on document.pdf (19 pages, 498666 bytes).
 PDF statistics:
- 943 PDF objects out of 1000 (max. 8388607)
+ 950 PDF objects out of 1000 (max. 8388607)
  415 compressed objects within 5 object streams
  99 named destinations out of 1000 (max. 500000)
  311 words of extra memory for PDF output out of 10000 (max. 10000000)
