@@ -1,16 +1,6 @@
 @startuml SampleERD
 !define LIGHTBLUE
 !includeurl https://raw.githubusercontent.com/Drakemor/RedDress-PlantUML/master/style.puml
-left to right direction
-
-class Student {
-    ID
-    --
-    First Name
-    Last Name
-    Date of birth
-    Class
-}
 
 
 class Class {
@@ -24,6 +14,42 @@ class Bridge {
     PK
 }
 
+class Student {
+    PK - Entity ID
+    --
+    First Name
+    Last Name
+    Date of birth
+    Mark
+    Class
+}
+note right: Entity / Table
+
+note right of Student::"PK - Entity ID"
+    Unique ID / Key
+end note
+
+note right of Student::"First Name"
+    Fields / Attributes
+end note
+
+note as NoteFloat01
+    This is a <i>'Bridge' to avoid
+    a 'many to many' connection
+    between Student and Class entities.
+end note
+
+note as NoteFloat02
+    This is a '1 to many' connection
+    between Student and Class
+end note
+
+Student .. NoteFloat02
+NoteFloat02 .. Class
+
+Bridge .. NoteFloat01
+
 Student |o--{ Class
+
 
 @enduml

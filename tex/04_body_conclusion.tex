@@ -72,14 +72,16 @@ A venn diagram with TiKZ
 
 Source: \url{https://texample.net/tikz/examples/venn/}
 
-\subsection{PlantUML in \LaTeX}
+\subsection{PlantUML .png in \LaTeX}
 
-\begin{platuml}
-@startuml
+\begin{figure}
+  \includegraphics[width=500pt]{out/uml/SampleUML/SampleERD.png}
+  \caption{Sample ERD .png}
+  \label{fig:Sample ERD as .png}
+\end{figure}
 
-Bob->Alice
-
-@enduml
-\end{plantuml}
-
-
+%\begin{figure}
+%  \includesvg[width=180pt]{out/uml/SampleUML/SampleERD.svg}
+%  \caption{Sample ERD .svg}
+%  \label{fig:Sample ERD as .svg}
+%\end{figure}

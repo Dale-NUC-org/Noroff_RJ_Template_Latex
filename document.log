@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.10.1)  10 JAN 2021 23:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.10.1)  11 JAN 2021 12:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -352,28 +352,447 @@ File: pgfmodulematrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \tikz@expandcount=\count124
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2019/02/02 v3.1.1 (3.1.1)
-)))
+))) (/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2018/11/12 v2.02b (include SVG pictures)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+) (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\svg@box=\box38
+\c@svg@param@lastpage=\count125
+\c@svg@param@currpage=\count126
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/transparent.sty
+Package: transparent 2018/11/18 v1.3 Transparency via pdfTeX's color stack (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count127
+\lst@gtempboxa=\box39
+\lst@token=\toks28
+\lst@length=\count128
+\lst@currlwidth=\dimen155
+\lst@column=\count129
+\lst@pos=\count130
+\lst@lostspace=\dimen156
+\lst@width=\dimen157
+\lst@newlines=\count131
+\lst@lineno=\count132
+\lst@maxwidth=\dimen158
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count133
+\lst@skipnumbers=\count134
+\lst@framebox=\box40
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count135
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+ (/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box41
+)
+\tc@llx=\dimen159
+\tc@lly=\dimen160
+\tc@urx=\dimen161
+\tc@ury=\dimen162
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen163
+\adjbox@Height=\dimen164
+\adjbox@Depth=\dimen165
+\adjbox@Totalheight=\dimen166
+\adjbox@pwidth=\dimen167
+\adjbox@pheight=\dimen168
+\adjbox@pdepth=\dimen169
+\adjbox@ptotalheight=\dimen170
+ (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count136
+) (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box42
+\sift@deathcycles=\count137
+\@vwid@loff=\dimen171
+\@vwid@roff=\dimen172
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks31
+\inpenc@posthook=\toks32
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/11/13 3.27 The Babel package
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count138
+\U@D=\dimen173
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count139
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count140
+\Gm@cntv=\count141
+\c@Gm@tempcnt=\count142
+\Gm@bindingoffset=\dimen174
+\Gm@wd@mp=\dimen175
+\Gm@odd@mp=\dimen176
+\Gm@even@mp=\dimen177
+\Gm@layoutwidth=\dimen178
+\Gm@layoutheight=\dimen179
+\Gm@layouthoffset=\dimen180
+\Gm@layoutvoffset=\dimen181
+\Gm@dimlist=\toks33
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip48
+\f@nch@O@elh=\skip49
+\f@nch@O@erh=\skip50
+\f@nch@O@olh=\skip51
+\f@nch@O@orh=\skip52
+\f@nch@O@elf=\skip53
+\f@nch@O@erf=\skip54
+\f@nch@O@olf=\skip55
+\f@nch@O@orf=\skip56
+) (/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count143
+\mult@box=\box43
+\multicol@leftmargin=\dimen182
+\c@unbalance=\count144
+\c@collectmore=\count145
+\doublecol@number=\count146
+\multicoltolerance=\count147
+\multicolpretolerance=\count148
+\full@width=\dimen183
+\page@free=\dimen184
+\premulticols=\dimen185
+\postmulticols=\dimen186
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box44
+\last@line=\box45
+\maxbalancingoverflow=\dimen187
+\mult@rightbox=\box46
+\mult@grightbox=\box47
+\mult@gfirstbox=\box48
+\mult@firstbox=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\c@columnbadness=\count149
+\c@finalcolumnbadness=\count150
+\last@try=\dimen188
+\multicolovershoot=\dimen189
+\multicolundershoot=\dimen190
+\mult@nat@firstbox=\box67
+\colbreak@box=\box68
+\mc@col@check@num=\count151
+) (/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count152
+\c@Blindtext=\count153
+\c@blind@countparstart=\count154
+\blind@countxx=\count155
+\blindtext@numBlindtext=\count156
+\blind@countyy=\count157
+\c@blindlist=\count158
+\c@blindlistlevel=\count159
+\c@blindlist@level=\count160
+\blind@listitem=\count161
+\c@blind@listcount=\count162
+\c@blind@levelcount=\count163
+\blind@mathformula=\count164
+\blind@Mathformula=\count165
+\c@blind@randomcount=\count166
+\c@blind@randommax=\count167
+\c@blind@pangramcount=\count168
+\c@blind@pangrammax=\count169
+))
 
-! LaTeX Error: File `plantuml.sty' not found.
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (597.50787pt) is ignored.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
 
-Enter file name: 
-./mystyle.sty:10: Emergency stop.
-<read *> 
-         
-l.10 ^^M
-        
-*** (cannot \read from terminal in nonstop modes)
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (845.04684pt) is ignored.
 
- 
+
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 72.
+
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+(./document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 72.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count170
+\scratchdimen=\dimen191
+\scratchbox=\box69
+\nofMPsegments=\count171
+\nofMParguments=\count172
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count173
+\MPscratchDim=\dimen192
+\MPnumerator=\count174
+\makeMPintoPDFobject=\count175
+\everyMPtoPDFconversion=\toks35
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\AtBeginShipoutBox=\box70
+Package hyperref Info: Link coloring OFF on input line 72.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count176
+)
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
+ (./document.out) (./document.out)
+\@outlinefile=\write4
+\openout4 = `document.out'.
+
+ ABD: EveryShipout initializing macros
+\c@lstlisting=\count177
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=702.78308pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=111.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 72.
+(./tex/01_title.tex
+<Noroff-Logo.png, id=143, 240.9pt x 236.5638pt>
+File: Noroff-Logo.png Graphic file (type png)
+<use Noroff-Logo.png>
+Package pdftex.def Info: Noroff-Logo.png  used on input line 37.
+(pdftex.def)             Requested size: 50.91396pt x 50.0pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Noroff-Logo.png>]) (./document.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+
+Underfull \vbox (badness 6910) has occurred while \output is active []
+
+ [2])
+\tf@toc=\write5
+\openout5 = `document.toc'.
+
+ [3] (./tex/02_introduction.tex
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 47.
+LaTeX Font Info:    No file OMScmss.fd. on input line 47.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 47.
+
+) [4] (./tex/03_body_section1.tex
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 18.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [1] [2]
+<tex/Data_cropped.png, id=245, 853.68938pt x 414.79968pt>
+File: tex/Data_cropped.png Graphic file (type png)
+<use tex/Data_cropped.png>
+Package pdftex.def Info: tex/Data_cropped.png  used on input line 166.
+(pdftex.def)             Requested size: 483.69687pt x 235.02684pt.
+<tex/Data_cropped2.png, id=246, 1423.56844pt x 826.58812pt>
+File: tex/Data_cropped2.png Graphic file (type png)
+<use tex/Data_cropped2.png>
+Package pdftex.def Info: tex/Data_cropped2.png  used on input line 172.
+(pdftex.def)             Requested size: 483.69687pt x 280.84705pt.
+ [3] [4 <./tex/Data_cropped.png> <./tex/Data_cropped2.png>]
+Underfull \hbox (badness 2799) in paragraph at lines 206--206
+[]\T1/cmss/m/n/10 Wikipedia - 3rd Nor-mal
+ []
+
+) [5] (./tex/03_body_section2.tex [6] [7]) [8] (./tex/03_body_section3.tex) [9] (./tex/03_body_section4.tex) [10] (./tex/04_body_conclusion.tex (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 15.
+ (./tex/hello_world.py) (./tex/TestCode.py
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 1.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)) [11]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 75.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 75.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 75.
+<out/uml/SampleUML/SampleERD.png, id=339, 585.18625pt x 441.65pt>
+File: out/uml/SampleUML/SampleERD.png Graphic file (type png)
+<use out/uml/SampleUML/SampleERD.png>
+Package pdftex.def Info: out/uml/SampleUML/SampleERD.png  used on input line 78.
+(pdftex.def)             Requested size: 500.0pt x 377.37206pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 78--79
+[][] 
+ []
+
+) [12] [13 <./out/uml/SampleUML/SampleERD.png (PNG copy)>] (./tex/05_appendix.tex) [14] (./tex/06_bibliography.tex) 
+AED: lastpage setting LastPage
+[15
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
+ (./document.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
+Package rerunfilecheck Info: File `document.out' has not changed.
+(rerunfilecheck)             Checksum: 0416BD858D325FE238B817BA33A4DBF5;2373.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
+ )
+(\end occurred inside a group at level 4)
+
+### simple group (level 4) entered at line 3 ({)
+### simple group (level 3) entered at line 5 ({)
+### simple group (level 2) entered at line 4 ({)
+### simple group (level 1) entered at line 4 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 15341 strings out of 494561
- 293371 string characters out of 6177454
- 366446 words of memory out of 5000000
- 18802 multiletter control sequences out of 15000+600000
- 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 21516 strings out of 494561
+ 386439 string characters out of 6177454
+ 714341 words of memory out of 5000000
+ 24643 multiletter control sequences out of 15000+600000
+ 22645 words of font info for 48 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 62i,0n,50p,997b,88s stack positions out of 5000i,500n,10000p,200000b,80000s
-./mystyle.sty:10:  ==> Fatal error occurred, no output PDF file produced!
+ 62i,12n,100p,997b,1765s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0500.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0800.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0800.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecso1440.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2074.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0700.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecso1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2074.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1000.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss1440.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2488.600pk> </home/operations/.texlive2018/texmf-var/fonts/pk/ljfour/jknappen/ec/ecss2488.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
+Output written on document.pdf (19 pages, 495145 bytes).
+PDF statistics:
+ 943 PDF objects out of 1000 (max. 8388607)
+ 415 compressed objects within 5 object streams
+ 99 named destinations out of 1000 (max. 500000)
+ 311 words of extra memory for PDF output out of 10000 (max. 10000000)
+
