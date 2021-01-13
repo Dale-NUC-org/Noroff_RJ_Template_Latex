@@ -20,17 +20,17 @@
 \contentsline {subsection}{\numberline {3.4}Lessons Learned}{8}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Action Points - Further Reading/Enquiry}{8}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6}Other source materials}{8}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Issues Noted and Area of Improvements}{8}{subsection.3.7}%
-\contentsline {section}{\numberline {4}This is body\_section3 heading}{9}{section.4}%
-\contentsline {section}{\numberline {5}This is body\_section4 heading}{10}{section.5}%
-\contentsline {section}{\numberline {6}Conclusion}{11}{section.6}%
-\contentsline {section}{\numberline {7}Code snippet sample}{11}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Stylized Code Typesetting Sample}{11}{subsection.7.1}%
-\contentsline {section}{\numberline {8}TiKZ package}{11}{section.8}%
-\contentsline {subsection}{\numberline {8.1}TiKZ package - Graph and illustration Sample}{11}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}TiKZ package - Drawing Sample}{12}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}TiKZ package - Venn diagram Sample}{12}{subsection.8.3}%
-\contentsline {section}{\numberline {9}PlantUML .png in \LaTeX }{12}{section.9}%
-\contentsline {section}{\numberline {10}Bibliography and Citation Sample}{12}{section.10}%
+\contentsline {subsection}{\numberline {3.7}Issues/Solutions Noted and Area of Improvements}{8}{subsection.3.7}%
+\contentsline {section}{\numberline {4}This is body\_section3 heading}{10}{section.4}%
+\contentsline {section}{\numberline {5}This is body\_section4 heading}{11}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{12}{section.6}%
+\contentsline {section}{\numberline {7}Code snippet sample}{12}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Stylized Code Typesetting Sample}{12}{subsection.7.1}%
+\contentsline {section}{\numberline {8}TiKZ package}{12}{section.8}%
+\contentsline {subsection}{\numberline {8.1}TiKZ package - Graph and illustration Sample}{12}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}TiKZ package - Drawing Sample}{13}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}TiKZ package - Venn diagram Sample}{13}{subsection.8.3}%
+\contentsline {section}{\numberline {9}PlantUML .png in \LaTeX }{14}{section.9}%
+\contentsline {section}{\numberline {10}Bibliography and Citation Sample}{14}{section.10}%
 \contentsline {section}{\numberline {A}Appendix}{15}{appendix.A}%
 \contentsline {section}{\numberline {B}Bibliography}{16}{appendix.B}%

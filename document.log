@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  13 JAN 2021 01:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  13 JAN 2021 02:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -806,7 +806,27 @@ Underfull \hbox (badness 3354) in paragraph at lines 76--77
 []\T1/cmss/m/n/10 <<\T1/cmss/m/it/10 comment or yyyy mm
  []
 
-[7]) [8] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section3.tex) [9] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section4.tex) [10] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/04_body_conclusion.tex (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+[]\T1/cmss/bx/n/10 Item
+ []
+
+
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 155--160
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]\T1/cmss/bx/n/10 Item
+ []
+
+
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 171--175
+[][] 
+ []
+
+[8]) [9] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section3.tex) [10] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section4.tex) [11] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/04_body_conclusion.tex (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 15.
@@ -814,10 +834,10 @@ Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on in
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 1.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)) [11]
+)) [12]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 70.
-<out/uml/SampleUML/SampleERD.png, id=345, 585.18625pt x 441.65pt>
+<out/uml/SampleUML/SampleERD.png, id=350, 585.18625pt x 441.65pt>
 File: out/uml/SampleUML/SampleERD.png Graphic file (type png)
 <use out/uml/SampleUML/SampleERD.png>
 Package pdftex.def Info: out/uml/SampleUML/SampleERD.png  used on input line 78.
@@ -827,17 +847,20 @@ Overfull \hbox (16.30313pt too wide) in paragraph at lines 78--79
 [][]
  []
 
-) [12pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.82 
+     ]) [14pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.116   \newpage
-                ] [13pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.116   \newpage
-                 </home/operations/Studies/Noroff_RJ_Template_Latex/out/uml/SampleUML/SampleERD.png (PNG copy)>] [14] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/05_appendix.tex) [15] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/06_bibliography.tex (/home/operations/Studies/Noroff_RJ_Template_Latex/document.bbl)) 
+                 </home/operations/Studies/Noroff_RJ_Template_Latex/out/uml/SampleUML/SampleERD.png (PNG copy)>] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/05_appendix.tex) [15] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/06_bibliography.tex (/home/operations/Studies/Noroff_RJ_Template_Latex/document.bbl)) 
 AED: lastpage setting LastPage
 [16
 
@@ -848,7 +871,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: FDDC11AC51466E9F7DC38E3877381298;2428.
+(rerunfilecheck)             Checksum: 7EF846577C33BBEBC49485713158DCA6;2438.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
  )
 (\end occurred inside a group at level 6)
@@ -861,15 +884,15 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
 ### simple group (level 1) entered at line 4 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 22964 strings out of 481239
- 412854 string characters out of 5920376
- 924881 words of memory out of 5000000
- 37605 multiletter control sequences out of 15000+600000
+ 22968 strings out of 481239
+ 412911 string characters out of 5920376
+ 925055 words of memory out of 5000000
+ 37609 multiletter control sequences out of 15000+600000
  548959 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,102p,991b,2022s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on /home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf (20 pages, 609353 bytes).
+Output written on /home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf (20 pages, 609595 bytes).
 PDF statistics:
  475 PDF objects out of 1000 (max. 8388607)
  420 compressed objects within 5 object streams
