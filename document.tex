@@ -6,6 +6,27 @@
 
 \renewcommand{\familydefault}{\sfdefault}
 
+\newenvironment{notes}[1][\unskip]{%
+\par
+\noindent
+\textcolor{blue}{\bfseries{Notes - } #1:}
+\\ \color{blue}}
+{}
+
+\newenvironment{followup}[1][\unskip]{%
+\par
+\noindent
+\textcolor{red}{\bfseries{Follow-up - } #1!!!}
+\\ \color{red}}
+{}
+
+\newenvironment{question}[1][\unskip]{%
+\par
+\noindent
+\textcolor{orange}{\bfseries{Follow-up - } #1???}
+\\ \color{orange}}
+{}
+
 \usepackage{mystyle}
 % Document Layout
 % ---> Document geometry - current setting is set to A4 with relatively narrow margins
