@@ -2,20 +2,16 @@
 !define LIGHTBLUE
 !includeurl https://raw.githubusercontent.com/Drakemor/RedDress-PlantUML/master/style.puml
 
-
 class Class {
-    ID
+    PK : Class ID
+    FK : Student ID
     --
     Class name
     Class Description
 }
 
-class Bridge {
-    PK
-}
-
 class Student {
-    PK - Entity ID
+    PK : Entity ID
     --
     First Name
     Last Name
@@ -25,7 +21,7 @@ class Student {
 }
 note right: Entity / Table
 
-note right of Student::"PK - Entity ID"
+note right of Student::"PK : Entity ID"
     Unique ID / Key
 end note
 
@@ -34,22 +30,20 @@ note right of Student::"First Name"
 end note
 
 note as NoteFloat01
-    This is a <i>'Bridge' to avoid
-    a 'many to many' connection
-    between Student and Class entities.
+    This is a note connected to
+    an entity with no relationship.
 end note
 
 note as NoteFloat02
-    This is a '1 to many' connection
-    between Student and Class
+    This is a note
+    connecting 2 entities...
 end note
 
 Student .. NoteFloat02
 NoteFloat02 .. Class
 
-Bridge .. NoteFloat01
+NoteFloat01 .. Entity
 
 Student |o--{ Class
-
 
 @enduml
