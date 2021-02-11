@@ -1,58 +1,17 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: document.aux
-The style file: apacite.bst
-Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
-Reallocated global_strs (elt_size=200001) to 20 items from 10.
-Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Database file #1: tex/TestBibliography.bib
-apacite.bst [2013/07/21 v6.03 APA bibliography style]
-Warning--No journal in Enisa2012
-You've used 2 entries,
-            6951 wiz_defined-function locations,
-            1283 strings with 10989 characters,
-and the built_in function-call counts, 3671 in all, are:
-= -- 452
-> -- 31
-< -- 170
-+ -- 171
-- -- 6
-* -- 227
-:= -- 724
-add.period$ -- 8
-call.type$ -- 2
-change.case$ -- 34
-chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 82
-empty$ -- 144
-format.name$ -- 38
-if$ -- 699
-int.to.chr$ -- 0
-int.to.str$ -- 6
-missing$ -- 0
-newline$ -- 50
-num.names$ -- 16
-pop$ -- 67
-preamble$ -- 1
-purify$ -- 8
-quote$ -- 0
-skip$ -- 234
-stack$ -- 0
-substring$ -- 204
-swap$ -- 47
-text.length$ -- 13
-text.prefix$ -- 0
-top$ -- 1
-type$ -- 160
-warning$ -- 1
-while$ -- 13
-width$ -- 0
-write$ -- 57
-(There was 1 warning)
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'document.blg'
+[82] biber:322> INFO - === Thu Feb 11, 2021, 16:49:27
+[97] Biber.pm:415> INFO - Reading 'document.bcf'
+[173] Biber.pm:943> INFO - Found 5 citekeys in bib section 0
+[187] Biber.pm:4256> INFO - Processing section 0
+[187] Utils.pm:75> INFO - Globbing data source 'tex/MyCollection.bib'
+[187] Utils.pm:91> INFO - Globbed data source 'tex/MyCollection.bib' to tex/MyCollection.bib
+[198] Biber.pm:4455> INFO - Looking for bibtex format file 'tex/MyCollection.bib' for section 0
+[200] bibtex.pm:1653> INFO - LaTeX decoding ...
+[213] bibtex.pm:1471> INFO - Found BibTeX data source 'tex/MyCollection.bib'
+[274] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[274] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[274] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[274] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[286] bbl.pm:652> INFO - Writing 'document.bbl' with encoding 'UTF-8'
+[290] bbl.pm:755> INFO - Output to document.bbl
