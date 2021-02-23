@@ -1,0 +1,278 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{GangBoard2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4683354f4c7d79dc8e77aac5a0e40b8f}{%
+           family={GangBoard},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{4683354f4c7d79dc8e77aac5a0e40b8f}
+      \strng{fullhash}{4683354f4c7d79dc8e77aac5a0e40b8f}
+      \strng{bibnamehash}{4683354f4c7d79dc8e77aac5a0e40b8f}
+      \strng{authorbibnamehash}{4683354f4c7d79dc8e77aac5a0e40b8f}
+      \strng{authornamehash}{4683354f4c7d79dc8e77aac5a0e40b8f}
+      \strng{authorfullhash}{4683354f4c7d79dc8e77aac5a0e40b8f}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{gangboard.com}
+      \field{title}{{What database does Facebook use 2019?}}
+      \field{urlday}{5}
+      \field{urlmonth}{2}
+      \field{urlyear}{2021}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https:/www.gangboard.com/blog/what-database-does-facebook-use/
+      \endverb
+      \verb{url}
+      \verb https:/www.gangboard.com/blog/what-database-does-facebook-use/
+      \endverb
+      \keyw{Blog}
+    \endentry
+    \entry{Kim2018a}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6681b4c1098b06bc133f82a0c5e52643}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sungjin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb536d2cfe029049e4e6f4c2ef3d394e}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jinkook},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6997979ae0edb3312b4ee074f3f96ce6}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Brent\bibnamedelimb Byung\bibnamedelima Hoon},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{1a3a6c8cb8da56fdac96a8710110d253}
+      \strng{fullhash}{74883dce5a0cc19bbf3970a5d18cf9de}
+      \strng{bibnamehash}{74883dce5a0cc19bbf3970a5d18cf9de}
+      \strng{authorbibnamehash}{74883dce5a0cc19bbf3970a5d18cf9de}
+      \strng{authornamehash}{1a3a6c8cb8da56fdac96a8710110d253}
+      \strng{authorfullhash}{74883dce5a0cc19bbf3970a5d18cf9de}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In terms of URL-based features, some studies have classified malicious URLs into a group with the same attributes. However, the malicious URLs are of two different types, each of which produces entirely different results. Thus, depending on their intention, adversaries leave slightly different behavioral traces within the malicious URLs. This paper presents an in-depth empirical study conducted based on 1,529,433 malicious URLs collected over the past two years. In particular, we analyze attackers' tactical behavior regarding URLs and extract common features. We then divide them into three different feature pools to determine the level of compromise of unknown URLs. To leverage detection rates, we employ a similarity matching technique. We believe that new URLs can be identified through attackers' habitual URL manipulation behaviors. This approach covers a large set of malicious URLs with small feature sets. The accuracy of the proposed approach (up to 70{\%}) is reasonable and the approach requires only the attributes of URLs to be examined. This model can be utilized during preprocessing to determine whether input URLs are benign, and as a web filter or a risk-level scaler to estimate whether a URL is malicious.}
+      \field{issn}{01674048}
+      \field{journaltitle}{Computers and Security}
+      \field{title}{{Malicious URL protection based on attackers' habitual behavioral analysis}}
+      \field{volume}{77}
+      \field{year}{2018}
+      \field{pages}{790\bibrangedash 806}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.cose.2018.01.013
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/DalePeregrinoBada/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Kim, Kang - 2018 - Malicious URL protection based on attackers' habitual behavioral analysis.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.cose.2018.01.013
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.cose.2018.01.013
+      \endverb
+      \keyw{Behaviors,Fuzzy,Malicious URL,Similarity matching,Web-filtering}
+    \endentry
+    \entry{Politou2018b}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=386c523b4742c05402bb12d090135e48}{%
+           family={Politou},
+           familyi={P\bibinitperiod},
+           given={Eugenia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e33bce27a8efa6365f19e8bcd441ccf}{%
+           family={Michota},
+           familyi={M\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=213cde5fc52fcee806ffb7f02131b278}{%
+           family={Alepis},
+           familyi={A\bibinitperiod},
+           given={Efthimios},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2902aca343d323d42ef99c7388a64f9}{%
+           family={Pocs},
+           familyi={P\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb25a705ecb4db067d80a1f025858e97}{%
+           family={Patsakis},
+           familyi={P\bibinitperiod},
+           given={Constantinos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{5b1476cb2844377aba914c8d51da9a4d}
+      \strng{fullhash}{b225f9d51b858515512628096167b85d}
+      \strng{bibnamehash}{b225f9d51b858515512628096167b85d}
+      \strng{authorbibnamehash}{b225f9d51b858515512628096167b85d}
+      \strng{authornamehash}{5b1476cb2844377aba914c8d51da9a4d}
+      \strng{authorfullhash}{b225f9d51b858515512628096167b85d}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The recent enforcement of the GDPR has put extra burdens to data controllers operating within the EU. Beyond other challenges, the exercise of the Right to be Forgotten by individuals who request erasure of their personal information has also become a thorny issue when applied to backups and archives. In this paper, we discuss the GDPR forgetting requirements in respect with their impact on the backup and archiving procedures stipulated by the modern security standards. We specifically examine the implications of erasure requests on current IT backup systems and we highlight a number of envisaged organizational, business and technical challenges pertained to the widely known backup standards, data retention policies, backup mediums, search services, and ERP systems.}
+      \field{issn}{02673649}
+      \field{journaltitle}{Computer Law and Security Review}
+      \field{number}{6}
+      \field{title}{{Backups and the right to be forgotten in the GDPR: An uneasy relationship}}
+      \field{volume}{34}
+      \field{year}{2018}
+      \field{pages}{1247\bibrangedash 1257}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.clsr.2018.08.006
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/DalePeregrinoBada/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Politou et al. - 2018 - Backups and the right to be forgotten in the GDPR An uneasy relationship.pdf:pdf
+      \endverb
+      \keyw{Backup,GDPR,Right to be Forgotten}
+    \endentry
+    \entry{Richardson2020a}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=491db5ed75e5ebffc59b65284721602d}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{491db5ed75e5ebffc59b65284721602d}
+      \strng{fullhash}{491db5ed75e5ebffc59b65284721602d}
+      \strng{bibnamehash}{491db5ed75e5ebffc59b65284721602d}
+      \strng{authorbibnamehash}{491db5ed75e5ebffc59b65284721602d}
+      \strng{authornamehash}{491db5ed75e5ebffc59b65284721602d}
+      \strng{authorfullhash}{491db5ed75e5ebffc59b65284721602d}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{While the benefits of the latest mobile devices, smart capabilities or automated processes can't be disputed, the need to be constantly vigilant goes hand-in-hand with them. This is especially true for businesses and banks, pressured by tech-savvy vendors and customers to adopt the latest payment methods. Fraud continues to be a top concern, and dealing with it is a constant battle. However, with the right mix of fraud controls and resources, there is a way to gain the advantage, says James Richardson of Bottomline Technologies. As we embark on the new decade, the growth of technological advancements and innovations continues to accelerate. Not surprisingly, the impact and influence that technology has on our personal and professional lives deepens and expands accordingly. But while the quantitative and qualitative benefits of the latest mobile device, smart capability or automated process can't be disputed, the need to be constantly vigilant goes hand-in-hand.}
+      \field{issn}{13613723}
+      \field{journaltitle}{Computer Fraud and Security}
+      \field{number}{5}
+      \field{title}{{Is there a silver bullet to stop cybercrime?}}
+      \field{volume}{2020}
+      \field{year}{2020}
+      \field{pages}{6\bibrangedash 8}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1016/S1361-3723(20)30050-6
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/DalePeregrinoBada/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Richardson - 2020 - Is there a silver bullet to stop cybercrime.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/S1361-3723(20)30050-6
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/S1361-3723(20)30050-6
+      \endverb
+    \endentry
+    \entry{Williams2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f558bf2cde50f2e7a6807b4613636c63}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{f558bf2cde50f2e7a6807b4613636c63}
+      \strng{fullhash}{f558bf2cde50f2e7a6807b4613636c63}
+      \strng{bibnamehash}{f558bf2cde50f2e7a6807b4613636c63}
+      \strng{authorbibnamehash}{f558bf2cde50f2e7a6807b4613636c63}
+      \strng{authornamehash}{f558bf2cde50f2e7a6807b4613636c63}
+      \strng{authorfullhash}{f558bf2cde50f2e7a6807b4613636c63}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Software is at the heart of the ‘digital transformation' as businesses rapidly transition from traditional legacy-based models to more robust modern digital business processes. The rapid pace of modern software development has allowed businesses to transform the way they run – yielding superior customer experiences, greater efficiencies, faster time to market and better cost optimisation. But there are many application security challenges that need to be understood and addressed. Security instrumentation technology gives developers current, real-time visibility into all open source components across their portfolio, so they know what needs to be secured, says Jeff Williams of Contrast Security.}
+      \field{issn}{13613723}
+      \field{journaltitle}{Computer Fraud and Security}
+      \field{number}{6}
+      \field{title}{{Removing a false sense of (open source) security}}
+      \field{volume}{2020}
+      \field{year}{2020}
+      \field{pages}{8\bibrangedash 10}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1016/S1361-3723(20)30062-2
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/DalePeregrinoBada/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Williams - 2020 - Removing a false sense of (open source) security.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/S1361-3723(20)30062-2
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/S1361-3723(20)30062-2
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
