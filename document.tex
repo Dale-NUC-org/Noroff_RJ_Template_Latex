@@ -88,6 +88,8 @@ tabsize=2, % Number of spaces per tab in the code
 % Create a command to cleanly insert a snippet with the style above anywhere in the document
 \newcommand{\insertcode}[2]{\begin{itemize}\item[]\lstinputlisting[caption=#2,label=#1,style=Style1]{#1}\end{itemize}} % The first argument is the script location/filename and the second is a caption for the listing
 
+% Enable indexing and create an index with following formating
+\makeindex[columns=4, title=Index, intoc]
 
 \pagenumbering{roman}
 
@@ -141,5 +143,8 @@ tabsize=2, % Number of spaces per tab in the code
   % bibliography
   \clearpage
   \input{tex/06_bibliography.tex}
+
+  \newpage
+  \printindex
   
 \end{document}

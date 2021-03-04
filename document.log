@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  15 FEB 2021 10:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  4 MAR 2021 16:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/operations/Studies/Noroff_RJ_Template_Latex/document.tex
-(/home/operations/Studies/Noroff_RJ_Template_Latex/document.tex
+**/home/operations/Studies/StudyNotes-Template-Latex/document.tex
+(/home/operations/Studies/StudyNotes-Template-Latex/document.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -22,7 +22,7 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (/home/operations/Studies/Noroff_RJ_Template_Latex/mystyle.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/home/operations/Studies/StudyNotes-Template-Latex/mystyle.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
@@ -705,110 +705,37 @@ Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
-)) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count428
-\lst@gtempboxa=\box62
-\lst@token=\toks33
-\lst@length=\count429
-\lst@currlwidth=\dimen270
-\lst@column=\count430
-\lst@pos=\count431
-\lst@lostspace=\dimen271
-\lst@width=\dimen272
-\lst@newlines=\count432
-\lst@lineno=\count433
-\lst@maxwidth=\dimen273
- (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
-\c@lstnumber=\count434
-\lst@skipnumbers=\count435
-\lst@framebox=\box63
-) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2019/09/10 1.8c listings configuration
-))
-Package: listings 2019/09/10 1.8c (Carsten Heinz)
- (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks34
-\inpenc@posthook=\toks35
-) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2020/02/14 3.40 The Babel package
- (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2020/02/14 3.40 Babel switching mechanism
-) (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
- (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2020/02/14 3.40 Babel common definitions
-\babel@savecnt=\count436
-\U@D=\dimen274
- (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@readstream=\read4
-\bbl@dirlevel=\count437
-)
-Package babel Info: \l@canadian = using hyphenrules for english
-(babel)             (\language0) on input line 102.
-Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language81) on input line 105.
-Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language81) on input line 108.
-)) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 112.
- (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count438
-\Gm@cntv=\count439
-\c@Gm@tempcnt=\count440
-\Gm@bindingoffset=\dimen275
-\Gm@wd@mp=\dimen276
-\Gm@odd@mp=\dimen277
-\Gm@even@mp=\dimen278
-\Gm@layoutwidth=\dimen279
-\Gm@layoutheight=\dimen280
-\Gm@layouthoffset=\dimen281
-\Gm@layoutvoffset=\dimen282
-\Gm@dimlist=\toks36
-) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
-\f@nch@headwidth=\skip76
-\f@nch@O@elh=\skip77
-\f@nch@O@erh=\skip78
-\f@nch@O@olh=\skip79
-\f@nch@O@orh=\skip80
-\f@nch@O@elf=\skip81
-\f@nch@O@erf=\skip82
-\f@nch@O@olf=\skip83
-\f@nch@O@orf=\skip84
-) (/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)) (/usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchronous mode
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count441
-\mult@box=\box64
-\multicol@leftmargin=\dimen283
-\c@unbalance=\count442
-\c@collectmore=\count443
-\doublecol@number=\count444
-\multicoltolerance=\count445
-\multicolpretolerance=\count446
-\full@width=\dimen284
-\page@free=\dimen285
-\premulticols=\dimen286
-\postmulticols=\dimen287
-\multicolsep=\skip85
-\multicolbaselineskip=\skip86
-\partial@page=\box65
-\last@line=\box66
-\maxbalancingoverflow=\dimen288
-\mult@rightbox=\box67
-\mult@grightbox=\box68
-\mult@gfirstbox=\box69
-\mult@firstbox=\box70
+\c@tracingmulticols=\count428
+\mult@box=\box62
+\multicol@leftmargin=\dimen270
+\c@unbalance=\count429
+\c@collectmore=\count430
+\doublecol@number=\count431
+\multicoltolerance=\count432
+\multicolpretolerance=\count433
+\full@width=\dimen271
+\page@free=\dimen272
+\premulticols=\dimen273
+\postmulticols=\dimen274
+\multicolsep=\skip76
+\multicolbaselineskip=\skip77
+\partial@page=\box63
+\last@line=\box64
+\maxbalancingoverflow=\dimen275
+\mult@rightbox=\box65
+\mult@grightbox=\box66
+\mult@gfirstbox=\box67
+\mult@firstbox=\box68
+\@tempa=\box69
+\@tempa=\box70
 \@tempa=\box71
 \@tempa=\box72
 \@tempa=\box73
@@ -844,40 +771,294 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box103
 \@tempa=\box104
 \@tempa=\box105
-\@tempa=\box106
-\@tempa=\box107
-\c@minrows=\count447
-\c@columnbadness=\count448
-\c@finalcolumnbadness=\count449
-\last@try=\dimen289
-\multicolovershoot=\dimen290
-\multicolundershoot=\dimen291
-\mult@nat@firstbox=\box108
-\colbreak@box=\box109
-\mc@col@check@num=\count450
+\c@minrows=\count434
+\c@columnbadness=\count435
+\c@finalcolumnbadness=\count436
+\last@try=\dimen276
+\multicolovershoot=\dimen277
+\multicolundershoot=\dimen278
+\mult@nat@firstbox=\box106
+\colbreak@box=\box107
+\mc@col@check@num=\count437
+)) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2020/02/13 v4.45 (NLCT)
+ (/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+\@glsmfirst=\toks33
+\@glsmrest=\toks34
+) (/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+) (/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip78
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks35
+\ex@=\dimen279
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen280
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count438
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count439
+\leftroot@=\count440
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count441
+\DOTSCASE@=\count442
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box108
+\strutbox@=\box109
+\big@size=\dimen281
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count443
+\c@MaxMatrixCols=\count444
+\dotsspace@=\muskip21
+\c@parentequation=\count445
+\dspbrk@lvl=\count446
+\tag@help=\toks36
+\row@=\count447
+\column@=\count448
+\maxfields@=\count449
+\andhelp@=\toks37
+\eqnshift@=\dimen282
+\alignsep@=\dimen283
+\tagshift@=\dimen284
+\tagwidth@=\dimen285
+\totwidth@=\dimen286
+\lineht@=\dimen287
+\@envbody=\toks38
+\multlinegap=\skip79
+\multlinetaggap=\skip80
+\mathdisplay@stack=\toks39
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count450
+) (/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count451
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count452
+\FP@xia=\count453
+\FP@xib=\count454
+\FP@xfa=\count455
+\FP@xfb=\count456
+\FP@rega=\count457
+\FP@regb=\count458
+\FP@regs=\count459
+\FP@times=\count460
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count461
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+) (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks40
+\@dtl@tmpcount=\count462
+\dtl@tmplength=\skip81
+\dtl@sortresult=\count463
+\@dtl@numgrpsepcount=\count464
+\@dtl@datatype=\count465
+\dtl@codeA=\count466
+\dtl@codeB=\count467
+\@dtl@foreach@level=\count468
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-307.sty
+Package: glossaries-compatible-307 2020/02/13 v4.45 (NLCT)
+)
+\gls@level=\count469
+\@gls@tmpb=\toks41
+\gls@tmplen=\skip82
+\glskeylisttok=\toks42
+\glslabeltok=\toks43
+\glsshorttok=\toks44
+\glslongtok=\toks45
+ (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty
+Package: glossary-hypernav 2020/02/13 v4.45 (NLCT)
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+Package: glossary-list 2020/02/13 v4.45 (NLCT)
+\glslistdottedwidth=\skip83
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+Package: glossary-long 2020/02/13 v4.45 (NLCT)
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip84
+\LTright=\skip85
+\LTpre=\skip86
+\LTpost=\skip87
+\LTchunksize=\count470
+\LTcapwidth=\dimen288
+\LT@head=\box110
+\LT@firsthead=\box111
+\LT@foot=\box112
+\LT@lastfoot=\box113
+\LT@cols=\count471
+\LT@rows=\count472
+\c@LT@tables=\count473
+\c@LT@chunks=\count474
+\LT@p@ftn=\toks46
+)
+\glsdescwidth=\skip88
+\glspagelistwidth=\skip89
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+Package: glossary-super 2020/02/13 v4.45 (NLCT)
+ (/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count475
+\ST@wd=\dimen289
+\ST@rightskip=\skip90
+\ST@leftskip=\skip91
+\ST@parfillskip=\skip92
+\ST@pageleft=\dimen290
+\ST@headht=\dimen291
+\ST@tailht=\dimen292
+\ST@pagesofar=\dimen293
+\ST@pboxht=\dimen294
+\ST@lineht=\dimen295
+\ST@prevht=\dimen296
+\ST@toadd=\dimen297
+\ST@dimen=\dimen298
+\ST@pbox=\box114
+)) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+Package: glossary-tree 2020/02/13 v4.45 (NLCT)
+\glstreeindent=\skip93
+)) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count476
+\lst@gtempboxa=\box115
+\lst@token=\toks47
+\lst@length=\count477
+\lst@currlwidth=\dimen299
+\lst@column=\count478
+\lst@pos=\count479
+\lst@lostspace=\dimen300
+\lst@width=\dimen301
+\lst@newlines=\count480
+\lst@lineno=\count481
+\lst@maxwidth=\dimen302
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count482
+\lst@skipnumbers=\count483
+\lst@framebox=\box116
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks48
+\inpenc@posthook=\toks49
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count484
+\U@D=\dimen303
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read4
+\bbl@dirlevel=\count485
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language81) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language81) on input line 108.
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 112.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count486
+\Gm@cntv=\count487
+\c@Gm@tempcnt=\count488
+\Gm@bindingoffset=\dimen304
+\Gm@wd@mp=\dimen305
+\Gm@odd@mp=\dimen306
+\Gm@even@mp=\dimen307
+\Gm@layoutwidth=\dimen308
+\Gm@layoutheight=\dimen309
+\Gm@layouthoffset=\dimen310
+\Gm@layoutvoffset=\dimen311
+\Gm@dimlist=\toks50
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip94
+\f@nch@O@elh=\skip95
+\f@nch@O@erh=\skip96
+\f@nch@O@olh=\skip97
+\f@nch@O@orh=\skip98
+\f@nch@O@elf=\skip99
+\f@nch@O@erf=\skip100
+\f@nch@O@olf=\skip101
+\f@nch@O@orf=\skip102
+) (/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 ) (/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
  (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count451
-\c@Blindtext=\count452
-\c@blind@countparstart=\count453
-\blind@countxx=\count454
-\blindtext@numBlindtext=\count455
-\blind@countyy=\count456
-\c@blindlist=\count457
-\c@blindlistlevel=\count458
-\c@blindlist@level=\count459
-\blind@listitem=\count460
-\c@blind@listcount=\count461
-\c@blind@levelcount=\count462
-\blind@mathformula=\count463
-\blind@Mathformula=\count464
-\c@blind@randomcount=\count465
-\c@blind@randommax=\count466
-\c@blind@pangramcount=\count467
-\c@blind@pangrammax=\count468
+\c@blindtext=\count489
+\c@Blindtext=\count490
+\c@blind@countparstart=\count491
+\blind@countxx=\count492
+\blindtext@numBlindtext=\count493
+\blind@countyy=\count494
+\c@blindlist=\count495
+\c@blindlistlevel=\count496
+\c@blindlist@level=\count497
+\blind@listitem=\count498
+\c@blind@listcount=\count499
+\c@blind@levelcount=\count500
+\blind@mathformula=\count501
+\blind@Mathformula=\count502
+\c@blind@randomcount=\count503
+\c@blind@randommax=\count504
+\c@blind@pangramcount=\count505
+\c@blind@pangrammax=\count506
 ))
 
 Package geometry Warning: Over-specification in `h'-direction.
@@ -887,8 +1068,12 @@ Package geometry Warning: Over-specification in `h'-direction.
 Package geometry Warning: Over-specification in `v'-direction.
     `height' (845.04684pt) is ignored.
 
+\document@idxfile=\write5
+\openout5 = `document.idx'.
 
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 94.
+Writing index file document.idx
+
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 96.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -896,9 +1081,9 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count469
-\l__pdf_internal_box=\box110
-) (/home/operations/Studies/Noroff_RJ_Template_Latex/document.aux
+\l__kernel_color_stack_int=\count507
+\l__pdf_internal_box=\box117
+) (/home/operations/Studies/StudyNotes-Template-Latex/document.aux
 
 LaTeX Warning: Label `fig:Sample ERD as .png' multiply defined.
 
@@ -917,53 +1102,58 @@ LaTeX Warning: Label `sub@fig:Task2_pic01' multiply defined.
 )
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count470
-\scratchdimen=\dimen292
-\scratchbox=\box111
-\nofMPsegments=\count471
-\nofMParguments=\count472
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count473
-\MPscratchDim=\dimen293
-\MPnumerator=\count474
-\makeMPintoPDFobject=\count475
-\everyMPtoPDFconversion=\toks38
+\scratchcounter=\count508
+\scratchdimen=\dimen312
+\scratchbox=\box118
+\nofMPsegments=\count509
+\nofMParguments=\count510
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count511
+\MPscratchDim=\dimen313
+\MPnumerator=\count512
+\makeMPintoPDFobject=\count513
+\everyMPtoPDFconversion=\toks52
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\AtBeginShipoutBox=\box112
-Package hyperref Info: Link coloring OFF on input line 94.
-LaTeX Info: Redefining \ref on input line 94.
-LaTeX Info: Redefining \pageref on input line 94.
-LaTeX Info: Redefining \nameref on input line 94.
- (/home/operations/Studies/Noroff_RJ_Template_Latex/document.out) (/home/operations/Studies/Noroff_RJ_Template_Latex/document.out)
-\@outlinefile=\write5
-\openout5 = `document.out'.
+\AtBeginShipoutBox=\box119
+Package hyperref Info: Link coloring OFF on input line 96.
+LaTeX Info: Redefining \ref on input line 96.
+LaTeX Info: Redefining \pageref on input line 96.
+LaTeX Info: Redefining \nameref on input line 96.
+ (/home/operations/Studies/StudyNotes-Template-Latex/document.out) (/home/operations/Studies/StudyNotes-Template-Latex/document.out)
+\@outlinefile=\write6
+\openout6 = `document.out'.
 
  ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
@@ -994,10 +1184,10 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'document.bbl' found.
- (/home/operations/Studies/Noroff_RJ_Template_Latex/document.bbl)
-Package biblatex Info: Reference section=0 on input line 94.
-Package biblatex Info: Reference segment=0 on input line 94.
-\c@lstlisting=\count476
+ (/home/operations/Studies/StudyNotes-Template-Latex/document.bbl)
+Package biblatex Info: Reference section=0 on input line 96.
+Package biblatex Info: Reference segment=0 on input line 96.
+\c@lstlisting=\count514
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1035,8 +1225,8 @@ Package biblatex Info: Reference segment=0 on input line 94.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 94.
-(/home/operations/Studies/Noroff_RJ_Template_Latex/tex/01_title.tex
+(lastpage)             ! on input line 96.
+(/home/operations/Studies/StudyNotes-Template-Latex/tex/01_title.tex
 <Noroff-Logo.png, id=155, 240.9pt x 236.5638pt>
 File: Noroff-Logo.png Graphic file (type png)
 <use Noroff-Logo.png>
@@ -1044,23 +1234,18 @@ Package pdftex.def Info: Noroff-Logo.png  used on input line 38.
 (pdftex.def)             Requested size: 50.91396pt x 50.0pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/operations/Studies/Noroff_RJ_Template_Latex/Noroff-Logo.png>]) (/home/operations/Studies/Noroff_RJ_Template_Latex/document.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 6.
-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/operations/Studies/StudyNotes-Template-Latex/Noroff-Logo.png>]) (/home/operations/Studies/StudyNotes-Template-Latex/document.toc
 Underfull \vbox (badness 6910) has occurred while \output is active []
 
  [2])
-\tf@toc=\write6
-\openout6 = `document.toc'.
+\tf@toc=\write7
+\openout7 = `document.toc'.
 
- [3] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/02_introduction.tex
+ [3] (/home/operations/Studies/StudyNotes-Template-Latex/tex/02_introduction.tex
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 47.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)) [4] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section1.tex [1]
+)) [4] (/home/operations/Studies/StudyNotes-Template-Latex/tex/03_body_section1.tex [1]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 104.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -1075,12 +1260,12 @@ File: tex/Data_cropped2.png Graphic file (type png)
 <use tex/Data_cropped2.png>
 Package pdftex.def Info: tex/Data_cropped2.png  used on input line 180.
 (pdftex.def)             Requested size: 483.69687pt x 280.84705pt.
- [3] [4 </home/operations/Studies/Noroff_RJ_Template_Latex/tex/Data_cropped.png> </home/operations/Studies/Noroff_RJ_Template_Latex/tex/Data_cropped2.png>]
+ [3] [4 </home/operations/Studies/StudyNotes-Template-Latex/tex/Data_cropped.png> </home/operations/Studies/StudyNotes-Template-Latex/tex/Data_cropped2.png>]
 Underfull \hbox (badness 2799) in paragraph at lines 214--214
 []\T1/cmss/m/n/10 Wikipedia - 3rd Nor-mal
  []
 
-) [5] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section2.tex [6] [7]
+) [5] (/home/operations/Studies/StudyNotes-Template-Latex/tex/03_body_section2.tex [6] [7]
 Underfull \hbox (badness 10000) in paragraph at lines 162--162
 []\T1/cmss/bx/n/10 Item
  []
@@ -1090,17 +1275,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 178--178
 []\T1/cmss/bx/n/10 Item
  []
 
-) [9] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section3.tex) [10] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section4.tex) [11] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/04_body_conclusion.tex (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+) [9] (/home/operations/Studies/StudyNotes-Template-Latex/tex/03_body_section3.tex) [10] (/home/operations/Studies/StudyNotes-Template-Latex/tex/03_body_section4.tex) [11] (/home/operations/Studies/StudyNotes-Template-Latex/tex/04_body_conclusion.tex (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 15.
- (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/hello_world.py) (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/TestCode.py
+ (/home/operations/Studies/StudyNotes-Template-Latex/tex/hello_world.py) (/home/operations/Studies/StudyNotes-Template-Latex/tex/TestCode.py
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 1.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )) [12]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 70.
 <out/uml/SampleUML/SampleERD.png, id=367, 627.34375pt x 446.66875pt>
 File: out/uml/SampleUML/SampleERD.png Graphic file (type png)
 <use out/uml/SampleUML/SampleERD.png>
@@ -1128,7 +1311,7 @@ Overfull \hbox (16.30313pt too wide) in paragraph at lines 84--85
 
 Underfull \vbox (badness 3965) has occurred while \output is active []
 
- [14 </home/operations/Studies/Noroff_RJ_Template_Latex/out/uml/SampleUML/SampleERD.png (PNG copy)> </home/operations/Studies/Noroff_RJ_Template_Latex/out/ERD_Sample_2.png (PNG copy)>]
+ [14 </home/operations/Studies/StudyNotes-Template-Latex/out/uml/SampleUML/SampleERD.png (PNG copy)> </home/operations/Studies/StudyNotes-Template-Latex/out/ERD_Sample_2.png (PNG copy)>]
 File: tex/Data_cropped.png Graphic file (type png)
 <use tex/Data_cropped.png>
 Package pdftex.def Info: tex/Data_cropped.png  used on input line 110.
@@ -1155,16 +1338,18 @@ Overfull \hbox (2.22168pt too wide) in paragraph at lines 121--133
 []$[]$ $[]$ 
  []
 
-) [15] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/05_appendix.tex) [16] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/06_bibliography.tex) 
-AED: lastpage setting LastPage
-[17
+) [15] (/home/operations/Studies/StudyNotes-Template-Latex/tex/05_appendix.tex) [16] (/home/operations/Studies/StudyNotes-Template-Latex/tex/06_bibliography.tex) [17
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
- (/home/operations/Studies/Noroff_RJ_Template_Latex/document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
+runsystem(makeindex document.idx)...executed safely (allowed).
+
+ (/home/operations/Studies/StudyNotes-Template-Latex/document.ind) 
+AED: lastpage setting LastPage
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
+(/home/operations/Studies/StudyNotes-Template-Latex/document.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
 Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: B38AB6A7DF227792B8E57BE3624AE55F;2547.
 
@@ -1174,7 +1359,7 @@ LaTeX Warning: There were multiply-defined labels.
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
  )
 (\end occurred inside a group at level 5)
 
@@ -1185,15 +1370,15 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
 ### simple group (level 1) entered at line 4 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 30804 strings out of 481239
- 571248 string characters out of 5920376
- 1343712 words of memory out of 5000000
- 45368 multiletter control sequences out of 15000+600000
- 550491 words of font info for 52 fonts, out of 8000000 for 9000
+ 35095 strings out of 481239
+ 637712 string characters out of 5920376
+ 1467524 words of memory out of 5000000
+ 49536 multiletter control sequences out of 15000+600000
+ 551169 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,14n,107p,1385b,4846s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,15n,107p,1386b,4846s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on /home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf (21 pages, 658609 bytes).
+Output written on /home/operations/Studies/StudyNotes-Template-Latex/document.pdf (21 pages, 658801 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  461 compressed objects within 5 object streams
