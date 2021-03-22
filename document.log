@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  4 MAR 2021 16:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  4 MAR 2021 17:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/operations/Studies/StudyNotes-Template-Latex/document.tex
-(/home/operations/Studies/StudyNotes-Template-Latex/document.tex
+**/home/operations/Studies/Noroff_RJ_Template_Latex/document.tex
+(/home/operations/Studies/Noroff_RJ_Template_Latex/document.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -22,7 +22,7 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (/home/operations/Studies/StudyNotes-Template-Latex/mystyle.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/home/operations/Studies/Noroff_RJ_Template_Latex/mystyle.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
@@ -1083,7 +1083,7 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count507
 \l__pdf_internal_box=\box117
-) (/home/operations/Studies/StudyNotes-Template-Latex/document.aux
+) (/home/operations/Studies/Noroff_RJ_Template_Latex/document.aux
 
 LaTeX Warning: Label `fig:Sample ERD as .png' multiply defined.
 
@@ -1142,7 +1142,7 @@ Package hyperref Info: Link coloring OFF on input line 96.
 LaTeX Info: Redefining \ref on input line 96.
 LaTeX Info: Redefining \pageref on input line 96.
 LaTeX Info: Redefining \nameref on input line 96.
- (/home/operations/Studies/StudyNotes-Template-Latex/document.out) (/home/operations/Studies/StudyNotes-Template-Latex/document.out)
+ (/home/operations/Studies/Noroff_RJ_Template_Latex/document.out) (/home/operations/Studies/Noroff_RJ_Template_Latex/document.out)
 \@outlinefile=\write6
 \openout6 = `document.out'.
 
@@ -1184,7 +1184,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'document.bbl' found.
- (/home/operations/Studies/StudyNotes-Template-Latex/document.bbl)
+ (/home/operations/Studies/Noroff_RJ_Template_Latex/document.bbl)
 Package biblatex Info: Reference section=0 on input line 96.
 Package biblatex Info: Reference segment=0 on input line 96.
 \c@lstlisting=\count514
@@ -1226,7 +1226,7 @@ Package biblatex Info: Reference segment=0 on input line 96.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 96.
-(/home/operations/Studies/StudyNotes-Template-Latex/tex/01_title.tex
+(/home/operations/Studies/Noroff_RJ_Template_Latex/tex/01_title.tex
 <Noroff-Logo.png, id=155, 240.9pt x 236.5638pt>
 File: Noroff-Logo.png Graphic file (type png)
 <use Noroff-Logo.png>
@@ -1234,18 +1234,18 @@ Package pdftex.def Info: Noroff-Logo.png  used on input line 38.
 (pdftex.def)             Requested size: 50.91396pt x 50.0pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/operations/Studies/StudyNotes-Template-Latex/Noroff-Logo.png>]) (/home/operations/Studies/StudyNotes-Template-Latex/document.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/operations/Studies/Noroff_RJ_Template_Latex/Noroff-Logo.png>]) (/home/operations/Studies/Noroff_RJ_Template_Latex/document.toc
 Underfull \vbox (badness 6910) has occurred while \output is active []
 
  [2])
 \tf@toc=\write7
 \openout7 = `document.toc'.
 
- [3] (/home/operations/Studies/StudyNotes-Template-Latex/tex/02_introduction.tex
+ [3] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/02_introduction.tex
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 47.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)) [4] (/home/operations/Studies/StudyNotes-Template-Latex/tex/03_body_section1.tex [1]
+)) [4] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section1.tex [1]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 104.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -1260,12 +1260,12 @@ File: tex/Data_cropped2.png Graphic file (type png)
 <use tex/Data_cropped2.png>
 Package pdftex.def Info: tex/Data_cropped2.png  used on input line 180.
 (pdftex.def)             Requested size: 483.69687pt x 280.84705pt.
- [3] [4 </home/operations/Studies/StudyNotes-Template-Latex/tex/Data_cropped.png> </home/operations/Studies/StudyNotes-Template-Latex/tex/Data_cropped2.png>]
+ [3] [4 </home/operations/Studies/Noroff_RJ_Template_Latex/tex/Data_cropped.png> </home/operations/Studies/Noroff_RJ_Template_Latex/tex/Data_cropped2.png>]
 Underfull \hbox (badness 2799) in paragraph at lines 214--214
 []\T1/cmss/m/n/10 Wikipedia - 3rd Nor-mal
  []
 
-) [5] (/home/operations/Studies/StudyNotes-Template-Latex/tex/03_body_section2.tex [6] [7]
+) [5] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section2.tex [6] [7]
 Underfull \hbox (badness 10000) in paragraph at lines 162--162
 []\T1/cmss/bx/n/10 Item
  []
@@ -1275,11 +1275,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 178--178
 []\T1/cmss/bx/n/10 Item
  []
 
-) [9] (/home/operations/Studies/StudyNotes-Template-Latex/tex/03_body_section3.tex) [10] (/home/operations/Studies/StudyNotes-Template-Latex/tex/03_body_section4.tex) [11] (/home/operations/Studies/StudyNotes-Template-Latex/tex/04_body_conclusion.tex (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+) [9] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section3.tex) [10] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/03_body_section4.tex) [11] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/04_body_conclusion.tex (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 15.
- (/home/operations/Studies/StudyNotes-Template-Latex/tex/hello_world.py) (/home/operations/Studies/StudyNotes-Template-Latex/tex/TestCode.py
+ (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/hello_world.py) (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/TestCode.py
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 1.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -1311,7 +1311,7 @@ Overfull \hbox (16.30313pt too wide) in paragraph at lines 84--85
 
 Underfull \vbox (badness 3965) has occurred while \output is active []
 
- [14 </home/operations/Studies/StudyNotes-Template-Latex/out/uml/SampleUML/SampleERD.png (PNG copy)> </home/operations/Studies/StudyNotes-Template-Latex/out/ERD_Sample_2.png (PNG copy)>]
+ [14 </home/operations/Studies/Noroff_RJ_Template_Latex/out/uml/SampleUML/SampleERD.png (PNG copy)> </home/operations/Studies/Noroff_RJ_Template_Latex/out/ERD_Sample_2.png (PNG copy)>]
 File: tex/Data_cropped.png Graphic file (type png)
 <use tex/Data_cropped.png>
 Package pdftex.def Info: tex/Data_cropped.png  used on input line 110.
@@ -1338,16 +1338,16 @@ Overfull \hbox (2.22168pt too wide) in paragraph at lines 121--133
 []$[]$ $[]$ 
  []
 
-) [15] (/home/operations/Studies/StudyNotes-Template-Latex/tex/05_appendix.tex) [16] (/home/operations/Studies/StudyNotes-Template-Latex/tex/06_bibliography.tex) [17
+) [15] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/05_appendix.tex) [16] (/home/operations/Studies/Noroff_RJ_Template_Latex/tex/06_bibliography.tex) [17
 
 ]
 runsystem(makeindex document.idx)...executed safely (allowed).
 
- (/home/operations/Studies/StudyNotes-Template-Latex/document.ind) 
+ (/home/operations/Studies/Noroff_RJ_Template_Latex/document.ind) 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
-(/home/operations/Studies/StudyNotes-Template-Latex/document.aux)
+(/home/operations/Studies/Noroff_RJ_Template_Latex/document.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
 Package rerunfilecheck Info: File `document.out' has not changed.
@@ -1371,14 +1371,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
 ### bottom level 
 Here is how much of TeX's memory you used:
  35095 strings out of 481239
- 637712 string characters out of 5920376
+ 637668 string characters out of 5920376
  1467524 words of memory out of 5000000
  49536 multiletter control sequences out of 15000+600000
  551169 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,15n,107p,1386b,4846s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,15n,107p,1385b,4846s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on /home/operations/Studies/StudyNotes-Template-Latex/document.pdf (21 pages, 658801 bytes).
+Output written on /home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf (21 pages, 658801 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  461 compressed objects within 5 object streams
