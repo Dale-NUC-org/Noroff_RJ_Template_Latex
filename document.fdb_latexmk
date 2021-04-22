@@ -1,16 +1,16 @@
 # Fdb version 3
-["biber document"] 1614870601 "document.bcf" "document.bbl" "document" 1614875617
+["biber document"] 1614870601 "document.bcf" "document.bbl" "document" 1616423968
   "document.bcf" 1614875616 115412 46b96547408573f04065df0fbf17beb5 "pdflatex"
   "tex/MyCollection.bib" 1613058520 6481 9268cb244b4f334c6a2cd62d90259627 ""
   (generated)
   "document.blg"
   "document.bbl"
-["makeindex document.idx"] 1614870606 "document.idx" "document.ind" "document" 1614875617
+["makeindex document.idx"] 1614870606 "document.idx" "document.ind" "document" 1616423968
   "document.idx" 1614875614 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
-  "document.ilg"
   "document.ind"
-["pdflatex"] 1614875611 "/home/operations/Studies/Noroff_RJ_Template_Latex/document.tex" "/home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf" "document" 1614875617
+  "document.ilg"
+["pdflatex"] 1614875611 "/home/operations/Studies/Noroff_RJ_Template_Latex/document.tex" "/home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf" "document" 1616423968
   "/etc/texmf/web2c/texmf.cnf" 1605541955 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/operations/Studies/Noroff_RJ_Template_Latex/document.aux" 1614875616 12464 8e315b51bb4eb7ca70f60a7ab497373d ""
   "/home/operations/Studies/Noroff_RJ_Template_Latex/document.tex" 1614871317 5144 afc1ed32a2b37eaa4a1167f8ca6c35b4 ""
@@ -307,12 +307,12 @@
   "tex/hello_world.py" 1609831084 20 3c318ef3635e876ccd522653ec914bec ""
   (generated)
   "document.pdf"
+  "document.aux"
+  "document.bcf"
+  "document.toc"
+  "document.idx"
+  "/home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf"
+  "document.log"
   "document.out"
   "/home/operations/Studies/Noroff_RJ_Template_Latex/document.log"
-  "document.toc"
-  "/home/operations/Studies/Noroff_RJ_Template_Latex/document.pdf"
-  "document.aux"
-  "document.idx"
-  "document.log"
   "document.run.xml"
-  "document.bcf"
